@@ -3,6 +3,7 @@
 # Project: Green Thumb Garden Shop
 # Name: Philip R.
 # Course: CS 31
+# Date: 10/2026
 
 # Welcome the customer
 print("Welcome to Green Thumb Garden Shop!")
