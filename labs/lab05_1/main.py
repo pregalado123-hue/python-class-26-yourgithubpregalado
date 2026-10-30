@@ -22,7 +22,7 @@ lastName = input("Please enter your last name: ")
 
 print()
 
-Start the menu loop 
+# Start the menu loop 
 while True:
 
   # Display menu options 
