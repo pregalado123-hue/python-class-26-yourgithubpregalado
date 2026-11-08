@@ -6,7 +6,7 @@
 # Project 2 - Brown or Green Thumb 
 
 def main():
-  print("Brown or GreenThumb")
+  print("Brown or Green Thumb")
 
   print("Welcome to my Mad Libs game!")
   print("Let's see how your day turns out!")
@@ -14,7 +14,7 @@ def main():
 
   play = input("WOuld you like to play? (y/n): ").lower()
 
-  if play == "y"
+  if play == "y":
     name = input("What is your name? ")
     print()
     print("Welcome,", name + "!")
@@ -26,5 +26,5 @@ elif play == "n":
 else:
     print("Please enter y or n.")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
   main()
